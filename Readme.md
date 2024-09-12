@@ -1,5 +1,3 @@
-# hello-world
-Hello World repository for Git tutorial
-This is an example repository for the Git tutoial on https://www.w3schools.com
-
-This repository is built step by step in the tutorial.
+Nome: João Vítor de Oliveira Sampaio
+Matricula: 2314290084
+Atividade 1 de git HandsOn Git com Versionamento de software - prof. Daniel Souza (1,0 ponto)
